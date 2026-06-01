@@ -3,7 +3,7 @@
 A clean and responsive personal portfolio website built with HTML and CSS.
 
 ## 🔗 Live Site
-[https://ronasuarez.github.io](https://ronasuarez.github.io)
+[https://rcsuarez.github.io](https://rcsuarez.github.io)
 
 ## 📌 About
 This is my personal portfolio website showcasing my skills, projects, and contact information as an aspiring Web Analyst and IT student.
